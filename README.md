@@ -44,7 +44,7 @@ In alpine sports, selecting the right route is critical for safety and success. 
 ## Dataset
 
 ### Data Sources
-- Tour reports from [hikr.org](https://www.hikr.org/) were collected via web scraping.
+- Tour reports were collected via web scraping and are only for education / research purpose!
 - Reports include subjective route descriptions varying in length, detail, and structure.
 
 ### Data Pipeline
